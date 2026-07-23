@@ -1,0 +1,3 @@
+[submodule "vendor/smtc-bridge"]
+	path = vendor/smtc-bridge
+	url = https://github.com/thecasualdev/smtc-bridge.git
